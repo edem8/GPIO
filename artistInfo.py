@@ -28,8 +28,7 @@ def printInfo():
 	print()
 
 
-printInfo()
-"""
-button.when_pressed =  printArtist
+
+button.when_pressed =  printInfo
 pause()
-"""
+
