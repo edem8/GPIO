@@ -28,7 +28,7 @@ def printInfo():
 	print()
 
 
-
+"""Button Trigger """
 button.when_pressed =  printInfo
 pause()
 
